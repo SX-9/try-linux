@@ -4,7 +4,7 @@ input, label {
 }
 
 input {
-    caret-color: cyan;
+    caret-color: #ffffff;
 }
 
 label {
@@ -20,12 +20,12 @@ label {
 }
 
 body {
-    background-color: #010722;
+    background-color: #160122;
     overflow-x: hidden;
 }
 
 *::selection {
-    background-color: #036363;
+    background-color: #036303;
     text-shadow: .1em .1em .5em #000;
 }
 
